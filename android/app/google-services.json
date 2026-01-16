@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038179670035",
+    "project_id": "faber-base-01",
+    "storage_bucket": "faber-base-01.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038179670035:android:21bac0e7d8dafb5497c7e6",
+        "android_client_info": {
+          "package_name": "com.example.faber_cmt_crm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm09XAVUJMDed4ZiATUv0EIFJv1IfR4qI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
